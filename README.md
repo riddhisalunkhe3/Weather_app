@@ -1,1 +1,1 @@
-# Quiz_app
+# Weather_app
